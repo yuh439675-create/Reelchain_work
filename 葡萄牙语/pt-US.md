@@ -7,32 +7,35 @@
 
 ## 📖 Índice
 
-1. [O que é um aplicativo de dramas curtos?](#1-o-que-%C3%A9-um-aplicativo-de-dramas-curtos)
-2. [Como se cadastrar e fazer login](#2-como-se-cadastrar-e-fazer-login)
-3. [Como assistir a minidramas](#3-como-assistir-a-minidramas)
-4. [Como recarregar moedas de ouro](#4-como-recarregar-moedas-de-ouro)
-5. [Como comprar uma assinatura, episódio individual ou série completa](#5-como-comprar-uma-assinatura-episódio-individual-ou-série-completa)
-6. [Como ganhar dinheiro convidando amigos](#6-como-ganhar-dinheiro-convidando-amigos)
-7. [Perguntas frequentes](#7-perguntas-frequentes)
+1. [O que é um aplicativo de dramas curtos?](#1-O-que-é-um-aplicativo-de-dramas-curtos)
+2. [Como se cadastrar e fazer login？](#2-como-se-cadastrar-e-fazer-login)
+3. [Como assistir a minidramas？](#3-como-assistir-a-minidramas)
+4. [Como recarregar moedas de ouro？](#4-como-recarregar-moedas-de-ouro)
+5. [Como comprar uma assinatura, episódio individual ou série completa？](#5-como-comprar-uma-assinatura-episódio-individual-ou-série-completa)
+6. [Como ganhar dinheiro convidando amigos？](#6-como-ganhar-dinheiro-convidando-amigos)
+7. [Como faço para sacar USDT e REEL?](#7-como-faco-para-sacar-usdt-e-reel)
+8. [Resgate de pontos para REEL？](#8-resgate-de-pontos-para-reel)
+9. [Perguntas frequentes？](#9-perguntas-frequentes)
+
 
 ---
 
-## 1. O que é um aplicativo de dramas curtos?
+## 1. O que é um aplicativo de dramas curtos
 
 **Reelchain App** é um aplicativo móvel desenvolvido especificamente para assistir a séries curtas em vídeo. Assim como em séries de TV, cada episódio tem apenas alguns minutos de duração, perfeito para assistir em pequenos intervalos de tempo livre.
 
 ### Principais Recursos:
 - 🎬 **Assista a Séries Curtas**: Uma vasta biblioteca de séries curtas, assista a qualquer hora e em qualquer lugar.
 
-<!--- 👑 **Serviço de Assinatura**: Adquira uma assinatura para assistir a todas as séries curtas gratuitamente.-->
+- 👑 **Serviço de Assinatura**: Adquira uma assinatura para assistir a todas as séries curtas gratuitamente.
 
 - 🪙 **Recarga de Feijões de Ouro**: Use feijões de ouro para desbloquear episódios individuais, séries curtas completas ou adquirir assinaturas.
 
-<!--- 🤝 **Convide e Ganhe Comissões**: Ganhe comissões convidando amigos para se cadastrarem.-->
+- 🤝 **Convide e Ganhe Comissões**: Ganhe comissões convidando amigos para se cadastrarem.
 
 - ❤️ **Favoritos e Seguidores**: Salve suas séries curtas favoritas para assistir facilmente mais tarde.
 
-<!--- 🔄 **Resgate de Pontos**: Converta com eficiência seus pontos de atividade diária (pontos) em poder de compra na plataforma (moedas R).-->
+- 🔄 **Resgate de Pontos**: Converta com eficiência seus pontos de atividade diária (pontos) em poder de compra na plataforma (moedas R).
 
 ---
 
@@ -166,7 +169,7 @@ O aplicativo oferece vários métodos de cadastro; escolha o mais conveniente:
      >
     </figure>
 
-11. Digite seu **nome de usuário**, **senha** e pressione **Enter** para fazer login.
+11. Digite seu **nome de usuário, senha** e pressione **Enter** para fazer login.
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -177,7 +180,18 @@ O aplicativo oferece vários métodos de cadastro; escolha o mais conveniente:
      >
     </figure>
 
-12. Após efetuar o login, você será direcionado para a **página inicial**.
+12. Vincule o seu **Número de telefone**
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2025-12-01_13-36-37.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+13. Após efetuar o login, você será direcionado para a **página inicial**.
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -191,49 +205,60 @@ O aplicativo oferece vários métodos de cadastro; escolha o mais conveniente:
 #### Método 2: Login com conta de terceiros (Mais rápido) Suporta os seguintes métodos de login rápido:
 
 - **Login com conta do Google** (Google)
-  1. Insira Meu
-        <figure style="margin-bottom: 10rem;">
-         <img 
-              style=""
-              src="../images/Snipaste_2025-11-13_00-40-33.png"
-              width="400"
-              height="800"
-              style="display: block; margin: 0 auto;"
-     >
-        </figure>
-   
-  2. Clique em Configurações
-      <figure style="margin-bottom: 10rem;">
-       <img 
-            style=""
-            src="../images/Snipaste_2025-11-13_01-04-53.png"
-            width="400"
-            height="800"
-            style="display: block; margin: 0 auto;"
-     >
-      </figure>
-   
-  3. Selecione **Fazer login com o Google** para entrar na conta de terceiros do Google.
-      <figure style="margin-bottom: 10rem;">
-       <img 
-            style=""
-            src="../images/Snipaste_2025-11-13_03-37-41.png"
-            width="400"
-            height="800"
-            style="display: block; margin: 0 auto;"
-     >
-      </figure>
+     1. Insira Meu
+          <figure style="margin-bottom: 10rem;">
+          <img 
+               style=""
+               src="../images/Snipaste_2025-11-13_00-40-33.png"
+               width="400"
+               height="800"
+               style="display: block; margin: 0 auto;"
+          >
+          </figure>
      
-  4. Após efetuar o login, você será redirecionado para a **página inicial**.
-<figure style="margin-bottom: 10rem;">
-     <img 
-          style=""
-          src="../images/Snipaste_2025-11-13_01-55-06.png"
-          width="400"
-          height="800"
-          style="display: block; margin: 0 auto;"
-     >
-    </figure>
+     2. Clique em Configurações
+          <figure style="margin-bottom: 10rem;">
+          <img 
+               style=""
+               src="../images/Snipaste_2025-11-13_01-04-53.png"
+               width="400"
+               height="800"
+               style="display: block; margin: 0 auto;"
+          >
+          </figure>
+     
+     3. Selecione **Fazer login com o Google** para entrar na conta de terceiros do Google.
+          <figure style="margin-bottom: 10rem;">
+          <img 
+               style=""
+               src="../images/Snipaste_2025-11-13_03-37-41.png"
+               width="400"
+               height="800"
+               style="display: block; margin: 0 auto;"
+          >
+          </figure>
+
+     4. Vincule o seu **Número de telefone**
+          <figure style="margin-bottom: 10rem;">
+          <img 
+                    style=""
+                    src="../images/Snipaste_2025-12-01_13-36-37.png"
+                    width="400"
+                    height="800"
+                    style="display: block; margin: 0 auto;"
+          >
+          </figure>
+
+     5. Após efetuar o login, você será redirecionado para a **página inicial**.
+          <figure style="margin-bottom: 10rem;">
+          <img 
+                    style=""
+                    src="../images/Snipaste_2025-11-13_01-55-06.png"
+                    width="400"
+                    height="800"
+                    style="display: block; margin: 0 auto;"
+          >
+          </figure>
    
 💡 **Dica:** Após fazer login com uma conta de terceiros, o sistema solicitará que você vincule seu número de celular para maior segurança.
 
@@ -630,13 +655,382 @@ Passo 3: Compra com Moedas de Ouro
 
 ---
 ## 6. Como ganhar dinheiro convidando amigos
-O dinheiro ganho ao convidar amigos pode ser sacado para sua própria conta.
+- O dinheiro ganho ao convidar amigos pode ser sacado para sua própria conta.
+- For each first-level invited friend who purchases a membership, you will receive a commission equal to 20% of their payment.
+- A 5% commission is awarded based on the membership subscription amount paid by your second-level referrals.
+- Existem duas maneiras de convidar amigos, veja abaixo:
+- Compartilhe seu link de convite
 
-### 6.1 Condições de Saque
+### Compartilhe através do link
+1、 Clique no link Compartilhar para obter seu próprio link de convite.
+     <figure style="margin-bottom: 10rem;">
+               <img 
+                    style=""
+                    src="../images/Snipaste_2025-12-05_22-06-46.png"
+                    width="400"
+                    height="800"
+                    style="display: block; margin: 0 auto;"
+               >
+     </figure>
+
+2、 Clique no botão "Copiar link" para copiar seu próprio link de convite.
+     <figure style="margin-bottom: 10rem;">
+               <img 
+                    style=""
+                    src="../images/Snipaste_2025-12-05_22-10-52.png"
+                    width="400"
+                    height="800"
+                    style="display: block; margin: 0 auto;"
+               >
+     </figure>
+
+3、Envie o link do convite copiado para seus amigos para que eles se cadastrem.
+
+### Compartilhe seu pôster e deixe seus amigos escanearem o código QR para se cadastrarem.
+1、 Clique em Salvar o cartaz para obter seu pôster de convite.
+     <figure style="margin-bottom: 10rem;">
+               <img 
+                    style=""
+                    src="../images/Snipaste_2025-12-05_22-10-52Snipaste_2025-12-05_22-10-52Snipaste_2025-12-05_22-10-52.png"
+                    width="400"
+                    height="800"
+                    style="display: block; margin: 0 auto;"
+               >
+     </figure>
+
+2、 Após receber o pôster do convite, faça uma captura de tela e compartilhe com seus amigos.
+     <figure style="margin-bottom: 10rem;">
+               <img 
+                    style=""
+                    src="../images/Snipaste_2025-12-05_22-12-46.png"
+                    width="400"
+                    height="800"
+                    style="display: block; margin: 0 auto;"
+               >
+     </figure>
+
+3、Peça aos seus amigos que escaneiem o código QR no cartaz do convite.
 
 ---
 
-## 7. Perguntas frequentes
+## 7. como faco para sacar usdt e reel 
+### Somente membros podem sacar fundos! ! !
+### Retirar USDT（Meus ganhos são em USDT）
+1. Clique para acessar a função de saque.
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2026-01-26_14-20-07.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+2. Clique para acessar a página onde você pode selecionar a moeda que deseja sacar.
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2026-01-26_14-38-27.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+3. Selecione USDT
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2026-01-26_14-39-47.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+4. Redes de comutação
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2026-01-26_14-40-51.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+5. Insira o endereço de recebimento do USDT
+<figure style="margin-bottom: 10rem;">
+     <img
+          style=""
+          src="../images/Snipaste_2026-01-26_14-41-33.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+6. Insira o valor que deseja sacar.（Valor mínimo para saque: 100 USDT）
+<figure style="margin-bottom: 10rem;">
+     <img
+          style=""
+          src="../images/Snipaste_2026-01-26_14-42-08.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+7. Após retirada bem-sucedida, aguardando revisão.
+<figure style="margin-bottom: 10rem;">
+     <img
+          style=""
+          src="../images/Snipaste_2026-01-26_14-44-38.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+<figure style="margin-bottom: 10rem;">
+     <img
+          style=""
+          src="../images/Snipaste_2026-01-26_14-45-21.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+### Retirar REEL（Os pontos podem ser trocados por REEL）
+1. Clique para acessar a função de saque.
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2026-01-26_14-20-07.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+2. Clique para acessar a página onde você pode selecionar a moeda que deseja sacar.
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2026-01-26_13-52-45.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+3. Selecione REEL
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2026-01-26_13-54-57.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+4. Redes de comutação
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2026-01-26_14-01-06.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+5. Insira o endereço de recebimento do REEL
+<figure style="margin-bottom: 10rem;">
+     <img
+          style=""
+          src="../images/Snipaste_2026-01-26_14-05-16.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+6. Insira o valor que deseja sacar.（Valor mínimo para saque: 100 REEL
+<figure style="margin-bottom: 10rem;">
+     <img
+          style=""
+          src="../images/Snipaste_2026-01-26_14-06-46.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+7. Verifique cuidadosamente o endereço de saque para garantir que esteja correto.
+<figure style="margin-bottom: 10rem;">
+     <img
+          style=""
+          src="../images/Snipaste_2026-01-26_14-10-23.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+    
+<figure style="margin-bottom: 10rem;">
+     <img
+          style=""
+          src="../images/Snipaste_2026-01-26_14-16-06.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+---
+
+##  8. Resgate de pontos para REEL
+### Taxa de conversão de pontos para REEL: 200 pontos = 1 REEL
+1. Clique na seta para acessar o resgate de pontos.
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2026-01-26_14-21-33.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+2. Veja os pontos disponíveis no momento.
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2026-01-26_14-24-55.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+3. Insira os pontos a serem consumidos.
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2026-01-26_14-27-38.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+4. A quantidade de REEL trocada será exibida automaticamente aqui.
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2026-01-26_14-28-39.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+5. Clique em confirmar para enviar
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2026-01-26_14-31-45.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+6. Notificação de resgate bem-sucedido
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2026-01-26_14-33-32.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+### Veja os detalhes do resgate 
+1. Acesse a página de check-in.
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2025-12-01_18-58-01.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+2. Acesse a página de check-in.
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2025-12-01_18-59-40.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+3. Acesse a página de check-in.
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2025-12-01_19-04-54.png"
+          width="400"
+          height="400"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+### Verifique o número atual de REEL.
+1. Clique para acessar a função de saque.
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2025-11-22_15-51-56.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+2. Clique para acessar a página onde você pode selecionar a moeda que deseja sacar.
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2025-11-22_15-53-47.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+3. A área circulada em vermelho representa a quantidade atual.
+<figure style="margin-bottom: 10rem;">
+     <img 
+          style=""
+          src="../images/Snipaste_2025-12-01_19-10-47.png"
+          width="400"
+          height="800"
+          style="display: block; margin: 0 auto;"
+     >
+    </figure>
+
+---
+
+## 9. Perguntas frequentes
 
 ### P1: O que devo fazer se não receber o código de verificação durante o cadastro?
 **R:**
@@ -850,7 +1244,7 @@ O dinheiro ganho ao convidar amigos pode ser sacado para sua própria conta.
 
 ---
 
-## 🎉 结语
+## 🎉 Conclusão
 
 Parabéns! Agora você sabe como usar o aplicativo de minisséries:
 - ✅ Cadastre-se e faça login
@@ -868,6 +1262,7 @@ Aproveite a visualização! E que você ganhe ainda mais dinheiro compartilhando
 **Informações da versão:** v1.0
 **Data da atualização:** 13 de novembro de 2025
 **Versões compatíveis:** ReelChain Short Drama App v7.0+
+
 
 
 
